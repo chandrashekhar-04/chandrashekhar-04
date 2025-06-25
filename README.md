@@ -1,10 +1,21 @@
 # 👋 Hi there, I'm Chandrashekhar Billade!
 
+<div align:'center'>
+<img src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" width="400">
+<br><br>
+</div>
+
 ### 💻 MERN Stack Developer | 🚀 Passionate Coder | 🎯 Lifelong Learner
 
 Welcome to my GitHub! I'm a self-motivated and detail-oriented web developer with a strong focus on full-stack development using the MERN stack (MongoDB, Express.js, React.js, Node.js). I love building efficient, scalable, and visually engaging applications.
 
+
 ---
+<div align='center'>
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="500">
+<br><br>
+  
+</div>
 
 ## 🛠️ Tech Stack
 
@@ -15,6 +26,10 @@ Welcome to my GitHub! I'm a self-motivated and detail-oriented web developer wit
 - 🌐 **Tools**: Git, GitHub, VS Code, Postman, Netlify, Vercel
 - ☁️ **Cloud**: Firebase, basic knowledge of AWS & MongoDB Atlas
 
+<div align:'center'>
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+<br><br>
+  </div>
 ---
 
 ## 📈 What I’m Working On
